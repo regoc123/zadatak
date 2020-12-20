@@ -1,0 +1,100 @@
+body{
+    background-color: black;
+}
+
+header{
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: nowrap;
+    height:110px;
+    margin-bottom:35px;
+}
+.container{
+    width: 1724px;
+    height: 1124px;
+    border: 2px white;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 32px;
+    background: #060507;
+}
+.logo{
+    margin: 55px 0px 0px 64px;
+    height: 45px;
+}
+.nav{
+    margin: 64px 0px 0px 64px;
+    display: flex;
+    justify-content: space-between;
+    width: 627px;
+    height: 18px;
+}
+.gold{
+    border-radius: 0px 32px 0px 0px;
+    width: 558px;
+    height: 375px;
+}
+.centar{
+    width: 1389px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.motorčina{
+    width: 1032;
+    height: 700;
+}
+.kineskaslova{
+    position: relative;
+    top: -124;
+    width: 822;
+    height: 150;
+}
+.kineskaslova2{
+    position: relative;
+    top: -274;
+    left: 900;
+    width: 822;
+    height: 150;
+    z-index: 0;
+}
+.motor{
+    width: 1032;
+    height: 700;
+}
+.stats{
+    position: relative;
+    background-color: black;
+    left: 1389;
+    top: -470;
+    height: 745;
+    width: 330;
+    border-radius: 0px 0px 32px 0px;
+}
+.slikestats{
+    margin: 43px 13px 24px 13px;
+}
+.slikestats2{
+    margin: 0px 13px 24px 13px;
+}
+.slikestats3{
+    margin: 0px 13px 42px 13px;
+}
+.infobar{
+    width: 933;
+    height: 92;
+    position: relative;
+    left: 64;
+    top: -768;
+}
+.straznji{
+    width: 314px;
+    height: 248px;
+    position: relative;
+    top: -718;
+    left: 64;
+    z-index: 1;
+}
